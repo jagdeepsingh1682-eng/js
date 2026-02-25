@@ -1,0 +1,4 @@
+{
+  "name": "NodeJS Clean",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:latest"
+}
